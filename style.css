@@ -12,3 +12,7 @@ p {
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.camposFormulario {
+    margin-bottom: 10px;
+}
